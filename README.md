@@ -1,0 +1,2 @@
+# WBot
+Weather bot
